@@ -12,7 +12,7 @@ Ive implemented the following features :
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented SimpleToDo "TODO Application"
+Here's a walkthrough of implemented Flixster app that showing movies that were currently playing in the theatres.
 
 <img src='https://github.com/AravindVytla/flixster/blob/master/B2SIJ-yc.gif' />
 
