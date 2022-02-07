@@ -10,7 +10,7 @@ Ive implemented the following features :
 * [ ] User can **view the list of movies in the Landscape mode as well.**
 * [ ] user can **view the details of the movies (i.e. ratings, synopsis, popularity).**
 * [ ] user can **view the trailer of the movies through youtubeplayerview .**
-* [ ] creating new Intents and Activities.
+* [ ] creating  **Intents and Activities.**
 
 ## Video Walkthrough
 
@@ -23,7 +23,7 @@ Here's a walkthrough of implemented Flixster app that showing movies (ratings, t
 
 Describe any challenges encountered while building the app.
 
-* [ ] Accessing the videos API.
+* [ ] **Accessing the videos API.**
 
 
 ## License
