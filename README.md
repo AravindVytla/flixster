@@ -23,7 +23,7 @@ Here's a walkthrough of implemented Flixster app that showing movies (ratings, t
 
 Describe any challenges encountered while building the app.
 
-Accessing the videos API.
+* [ ] Accessing the videos API.
 
 
 ## License
